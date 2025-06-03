@@ -10,7 +10,7 @@ export default defineConfig({
     emptyOutDir: true,
     manifest: true,
     rollupOptions: {
-      input: 'assets/app.jsx',
+      input: 'assets/app.js',
     },
   },
 });
